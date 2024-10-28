@@ -6,5 +6,5 @@
 
 - 🔭 I’m currently working on ...    att bli systemutvecklare
 - 🌱 I’m currently learning ...      GitHub
-- ⚡ Fun fact: ...                   Jag har två katter, Bosse och Bruno, som har tagit över mitt galleri. 
+- ⚡ Fun fact: ...                   I have two cats, Bosse and Bruno, who have taken over my gallery. 
 
